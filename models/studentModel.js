@@ -12,3 +12,5 @@ const studentSchema=mongoose.Schema({
 const student=mongoose.model("students",studentSchema)
 
 module.exports={student}
+
+// hi csec
